@@ -1,66 +1,98 @@
 {
   "BAND": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/fea0fa733efe0aa58e9486e17e797b3f/file.txt",
-    "logo": "https://i.ibb.co/99s4JHmx/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg"
-  },
-  "MEGAPIX": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/4a94b212d63c68e7936ed29759f1b5cc/file.txt",
-    "logo": "https://i.ibb.co/21dSM5Mq/images-2.jpg"
-  },
-  "GLOBO SP": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/6ade7bb4387069a2080cf17a557b3119/file.txt",
-    "logo": "https://i.ibb.co/BH3w1CYJ/TV-Globo-logo-April-2025.png"
-  },
-  "GLOBO NOVELAS": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/ad21b5609069ecfe417aa524c433e575/file.txt",
-    "logo": "https://i.ibb.co/TBvwWTwm/globoplay-novelas.png"
-  },
-  "MULTISHOW": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/afa30b612adc11af944ea299641d5228/file.txt",
-    "logo": "https://i.ibb.co/vCx3QQGR/multishow1.jpg"
-  },
-  "RECORD SP": {
-    "link": "https://6d9c547cf146054a5a720606a7694467.s21-cloudfront-net.lat/embedtv/2f0c0f9fc12a461666497c945494d710/file.txt",
-    "logo": "https://i.ibb.co/Kp0TBcwm/Logotipo-da-Record.png"
-  },
-  "SBT SP": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/09e16f573dffd6ab56998136c2c7cf07/file.txt",
-    "logo": "https://i.ibb.co/1JfdqyMR/images-7.jpg"
-  },
-  "TNT NOVELAS": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/595fe6435ed159c56d7215adbd507215/file.txt",
-    "logo": "https://i.ibb.co/SDzG68Jq/images.jpg"
-  },
-  "TNT": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/9265e1c6242dabe547bee767229ce4c6/file.txt",
-    "logo": "https://i.ibb.co/m5gFkbRt/Tntlogo1.webp"
-  },
-  "TNT SERIES": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/473c359cc58385e0c137967a3b55c1ff/file.txt",
-    "logo": "https://i.ibb.co/yGqBjm7/images.png"
+    "domain": "v3.rdse.site",
+    "path": "bandsp",
+    "logo": "...",
+    "capture": true
   },
   "HBO": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/774127884c625b99b8d45e3b20d510a3/file.txt",
-    "logo": "https://i.ibb.co/cc4Qqff5/images-4.jpg"
-  },
-  "TELECINE PREMIUM": {
-    "link": "https://v3.rdse.site/telecinepremium",
-    "logo": "https://i.ibb.co/ccF7n53D/images-1.png"
+    "domain": "v3.rdse.site",
+    "path": "hbo",
+    "logo": "...",
+    "capture": true
   },
   "WARNER TV": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/8407b197a6431aa199c124cd796523a3/file.txt",
-    "logo": "https://i.ibb.co/YFm8mHWW/images-5.jpg"
+    "domain": "v3.rdse.site",
+    "path": "warner",
+    "logo": "...",
+    "capture": true
+  },
+  "GLOBO SP": {
+    "domain": "v3.rdse.site",
+    "path": "globosp",
+    "logo": "...",
+    "capture": true
+  },
+  "SBT SP": {
+    "domain": "v3.rdse.site",
+    "path": "sbt",
+    "logo": "...",
+    "capture": true
+  },
+  "RECORD SP": {
+    "domain": "v3.rdse.site",
+    "path": "recordsp",
+    "logo": "...",
+    "capture": true
+  },
+  "MEGAPIX": {
+    "domain": "v3.rdse.site",
+    "path": "megapix",
+    "logo": "...",
+    "capture": true
+  },
+  "GLOBO NOVELAS": {
+    "domain": "v3.rdse.site",
+    "path": "globonovelas",
+    "logo": "...",
+    "capture": true
+  },
+  "MULTISHOW": {
+    "domain": "v3.rdse.site",
+    "path": "multishow",
+    "logo": "...",
+    "capture": true
+  },
+  "TNT NOVELAS": {
+    "domain": "v3.rdse.site",
+    "path": "tntnovelas",
+    "logo": "...",
+    "capture": true
+  },
+  "TNT SERIES": {
+    "domain": "v3.rdse.site",
+    "path": "tntseries",
+    "logo": "...",
+    "capture": true
+  },
+  "TNT": {
+    "domain": "v3.rdse.site",
+    "path": "tnt",
+    "logo": "...",
+    "capture": true
   },
   "CINEMAX": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/da78ab6efd2264f8ce259e8f4cba833d/file.txt",
-    "logo": "https://i.ibb.co/Lhd4Rsvr/Cinemax-LA.png"
+    "domain": "v3.rdse.site",
+    "path": "cinemax",
+    "logo": "...",
+    "capture": true
   },
   "SONY CHANNEL": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/e2ef68e4dce01afb4457920cdf2fa8b1/file.txt",
-    "logo": "https://i.ibb.co/4RYxcVQd/maxresdefault.jpg"
+    "domain": "v3.rdse.site",
+    "path": "sony",
+    "logo": "...",
+    "capture": true
   },
   "SPORTV": {
-    "link": "https://a0872cc5b5ca4cc25076f3d868e1bdf8.s21-cloudfront-net.lat/embedtv/200c6b72355f2021f11ce5edfac7e91f/file.txt",
-    "logo": "https://i.ibb.co/pBZsrtQL/images-6-10.jpg"
+    "domain": "v3.rdse.site",
+    "path": "sportv",
+    "logo": "...",
+    "capture": true
+  },
+  "TELECINE PREMIUM": {
+    "domain": "v3.rdse.site",
+    "path": "telecinepremium",
+    "logo": "...",
+    "capture": true
   }
 }
