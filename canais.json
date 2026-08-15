@@ -2,97 +2,97 @@
   "BAND": {
     "domain": "v3.rdse.site",
     "path": "bandsp",
-    "logo": "...",
-    "capture": true
-  },
-  "HBO": {
-    "domain": "v3.rdse.site",
-    "path": "hbo",
-    "logo": "...",
-    "capture": true
-  },
-  "WARNER TV": {
-    "domain": "v3.rdse.site",
-    "path": "warner",
-    "logo": "...",
-    "capture": true
-  },
-  "GLOBO SP": {
-    "domain": "v3.rdse.site",
-    "path": "globosp",
-    "logo": "...",
-    "capture": true
-  },
-  "SBT SP": {
-    "domain": "v3.rdse.site",
-    "path": "sbt",
-    "logo": "...",
-    "capture": true
-  },
-  "RECORD SP": {
-    "domain": "v3.rdse.site",
-    "path": "recordsp",
-    "logo": "...",
+    "logo": "https://i.ibb.co/99s4JHmx/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg",
     "capture": true
   },
   "MEGAPIX": {
     "domain": "v3.rdse.site",
     "path": "megapix",
-    "logo": "...",
+    "logo": "https://i.ibb.co/21dSM5Mq/images-2.jpg",
+    "capture": true
+  },
+  "GLOBO SP": {
+    "domain": "v3.rdse.site",
+    "path": "globosp",
+    "logo": "https://i.ibb.co/BH3w1CYJ/TV-Globo-logo-April-2025.png",
     "capture": true
   },
   "GLOBO NOVELAS": {
     "domain": "v3.rdse.site",
-    "path": "globonovelas",
-    "logo": "...",
+    "path": "globoplaynovelas",
+    "logo": "https://i.ibb.co/TBvwWTwm/globoplay-novelas.png",
     "capture": true
   },
   "MULTISHOW": {
     "domain": "v3.rdse.site",
     "path": "multishow",
-    "logo": "...",
+    "logo": "https://i.ibb.co/vCx3QQGR/multishow1.jpg",
+    "capture": true
+  },
+  "RECORD SP": {
+    "domain": "v3.rdse.site",
+    "path": "recordsp",
+    "logo": "https://i.ibb.co/Kp0TBcwm/Logotipo-da-Record.png",
+    "capture": true
+  },
+  "SBT SP": {
+    "domain": "v3.rdse.site",
+    "path": "sbt",
+    "logo": "https://i.ibb.co/1JfdqyMR/images-7.jpg",
     "capture": true
   },
   "TNT NOVELAS": {
     "domain": "v3.rdse.site",
     "path": "tntnovelas",
-    "logo": "...",
-    "capture": true
-  },
-  "TNT SERIES": {
-    "domain": "v3.rdse.site",
-    "path": "tntseries",
-    "logo": "...",
+    "logo": "https://i.ibb.co/SDzG68Jq/images.jpg",
     "capture": true
   },
   "TNT": {
     "domain": "v3.rdse.site",
     "path": "tnt",
-    "logo": "...",
+    "logo": "https://i.ibb.co/m5gFkbRt/Tntlogo1.webp",
     "capture": true
   },
-  "CINEMAX": {
+  "TNT SERIES": {
     "domain": "v3.rdse.site",
-    "path": "cinemax",
-    "logo": "...",
+    "path": "tntseries",
+    "logo": "https://i.ibb.co/yGqBjm7/images.png",
     "capture": true
   },
-  "SONY CHANNEL": {
+  "HBO": {
     "domain": "v3.rdse.site",
-    "path": "sony",
-    "logo": "...",
-    "capture": true
-  },
-  "SPORTV": {
-    "domain": "v3.rdse.site",
-    "path": "sportv",
-    "logo": "...",
+    "path": "hbo",
+    "logo": "https://i.ibb.co/cc4Qqff5/images-4.jpg",
     "capture": true
   },
   "TELECINE PREMIUM": {
     "domain": "v3.rdse.site",
     "path": "telecinepremium",
-    "logo": "...",
+    "logo": "https://i.ibb.co/ccF7n53D/images-1.png",
+    "capture": true
+  },
+  "WARNER TV": {
+    "domain": "v3.rdse.site",
+    "path": "warner",
+    "logo": "https://i.ibb.co/YFm8mHWW/images-5.jpg",
+    "capture": true
+  },
+  "CINEMAX": {
+    "domain": "v3.rdse.site",
+    "path": "cinemax",
+    "logo": "https://i.ibb.co/Lhd4Rsvr/Cinemax-LA.png",
+    "capture": true
+  },
+  "SONY CHANNEL": {
+    "domain": "v3.rdse.site",
+    "path": "sony",
+    "logo": "https://i.ibb.co/4RYxcVQd/maxresdefault.jpg",
+    "capture": true
+  },
+  "SPORTV": {
+    "domain": "v3.rdse.site",
+    "path": "sportv",
+    "logo": "https://i.ibb.co/pBZsrtQL/images-6-10.jpg",
     "capture": true
   }
 }
