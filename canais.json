@@ -43,7 +43,7 @@
   },
   "GLOBO NOVELAS": {
     "domain": "v3.rdse.site",
-    "path": "globonovelas",
+    "path": "globoplaynovelas",
     "logo": "https://i.ibb.co/TBvwWTwm/globoplay-novelas.png",
     "capture": true,
     "headers": {
