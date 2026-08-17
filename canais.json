@@ -1,226 +1,498 @@
 {
   "BAND": {
-    "domain": "v3.rdse.site",
-    "path": "bandsp",
-    "logo": "https://i.ibb.co/99s4JHmx/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/bandsp",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "bandsp",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/bandsp",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "bandrj",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/99s4JHmx/164bcbd7-9e1a-b098-6489-da08bb218aac-857x482.jpg"
   },
   "MEGAPIX": {
-    "domain": "v3.rdse.site",
-    "path": "megapix",
-    "logo": "https://i.ibb.co/21dSM5Mq/images-2.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/megapix",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "megapix",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/megapix",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "megapix",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/21dSM5Mq/images-2.jpg"
   },
   "GLOBO SP": {
-    "domain": "v3.rdse.site",
-    "path": "globosp",
-    "logo": "https://i.ibb.co/BH3w1CYJ/TV-Globo-logo-April-2025.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/globosp",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "globosp",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/globosp",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "globorj",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/BH3w1CYJ/TV-Globo-logo-April-2025.png"
   },
   "GLOBO NOVELAS": {
-    "domain": "v3.rdse.site",
-    "path": "globoplaynovelas",
-    "logo": "https://i.ibb.co/TBvwWTwm/globoplay-novelas.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/globonovelas",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "globoplaynovelas",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/globonovelas",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "globonovelas",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/TBvwWTwm/globoplay-novelas.png"
   },
   "MULTISHOW": {
-    "domain": "v3.rdse.site",
-    "path": "multishow",
-    "logo": "https://i.ibb.co/vCx3QQGR/multishow1.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/multishow",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "multishow",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/multishow",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "multishow",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/vCx3QQGR/multishow1.jpg"
   },
   "RECORD SP": {
-    "domain": "v3.rdse.site",
-    "path": "recordsp",
-    "logo": "https://i.ibb.co/Kp0TBcwm/Logotipo-da-Record.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/recordsp",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "recordsp",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/recordsp",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "recordsp",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/Kp0TBcwm/Logotipo-da-Record.png"
   },
   "SBT SP": {
-    "domain": "v3.rdse.site",
-    "path": "sbt",
-    "logo": "https://i.ibb.co/1JfdqyMR/images-7.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/sbt",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "sbt",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/sbt",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "sbtsp",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/1JfdqyMR/images-7.jpg"
   },
   "TNT NOVELAS": {
-    "domain": "v3.rdse.site",
-    "path": "tntnovelas",
-    "logo": "https://i.ibb.co/SDzG68Jq/images.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/tntnovelas",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "tntnovelas",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/tntnovelas",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "tntnovelas",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/SDzG68Jq/images.jpg"
   },
   "TNT": {
-    "domain": "v3.rdse.site",
-    "path": "tnt",
-    "logo": "https://i.ibb.co/m5gFkbRt/Tntlogo1.webp",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/tnt",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "tnt",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/tnt",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "tnt",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/m5gFkbRt/Tntlogo1.webp"
   },
   "TNT SERIES": {
-    "domain": "v3.rdse.site",
-    "path": "tntseries",
-    "logo": "https://i.ibb.co/yGqBjm7/images.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/tntseries",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "tntseries",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/tntseries",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "tntseries",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/yGqBjm7/images.png"
   },
   "HBO": {
-    "domain": "v3.rdse.site",
-    "path": "hbo",
-    "logo": "https://i.ibb.co/cc4Qqff5/images-4.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/hbo",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "hbo",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/hbo",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "hbo",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/cc4Qqff5/images-4.jpg"
   },
   "TELECINE PREMIUM": {
-    "domain": "v3.rdse.site",
-    "path": "telecinepremium",
-    "logo": "https://i.ibb.co/ccF7n53D/images-1.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/telecinepremium",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "telecinepremium",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/telecinepremium",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "telecinepremium",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/ccF7n53D/images-1.png"
   },
   "WARNER TV": {
-    "domain": "v3.rdse.site",
-    "path": "warner",
-    "logo": "https://i.ibb.co/YFm8mHWW/images-5.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/warner",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "warner",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/warner",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "warnerchannel",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/YFm8mHWW/images-5.jpg"
   },
   "CINEMAX": {
-    "domain": "v3.rdse.site",
-    "path": "cinemax",
-    "logo": "https://i.ibb.co/Lhd4Rsvr/Cinemax-LA.png",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/cinemax",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "cinemax",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/cinemax",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "cinemax",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/Lhd4Rsvr/Cinemax-LA.png"
   },
   "SONY CHANNEL": {
-    "domain": "v3.rdse.site",
-    "path": "sony",
-    "logo": "https://i.ibb.co/4RYxcVQd/maxresdefault.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/sony",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "sony",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/sony",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "sonychannel",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/4RYxcVQd/maxresdefault.jpg"
   },
   "SPORTV": {
-    "domain": "v3.rdse.site",
-    "path": "sportv",
-    "logo": "https://i.ibb.co/pBZsrtQL/images-6-10.jpg",
-    "capture": true,
-    "headers": {
-      "Referer": "https://v3.rdse.site/sportv",
-      "Origin": "https://v3.rdse.site",
-      "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-      "Accept": "*/*",
-      "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
-      "Cache-Control": "no-cache"
-    }
+    "servers": [
+      {
+        "domain": "v3.rdse.site",
+        "path": "sportv",
+        "capture": true,
+        "headers": {
+          "Referer": "https://v3.rdse.site/sportv",
+          "Origin": "https://v3.rdse.site",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      },
+      {
+        "domain": "globo1.embedtv.lat",
+        "path": "sportv",
+        "capture": true,
+        "headers": {
+          "Referer": "https://globo1.embedtv.lat/",
+          "Origin": "https://globo1.embedtv.lat",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+          "Accept": "*/*",
+          "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+          "Cache-Control": "no-cache"
+        }
+      }
+    ],
+    "logo": "https://i.ibb.co/pBZsrtQL/images-6-10.jpg"
   }
 }
